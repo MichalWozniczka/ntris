@@ -1,0 +1,1 @@
+public enum GameState {title, select, game}
