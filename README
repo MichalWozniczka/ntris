@@ -12,4 +12,5 @@ Soft drop: down
 Hard drop: up
 Rotate: z/x
 
-
+To run:
+Be sure to pull entire directory of the version you want to run (e.g., to play the x64 version download all of N-Tris windows x64 into the same directory)
